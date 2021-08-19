@@ -1,8 +1,25 @@
-body,h1 {font-family: "Raleway", sans-serif}
-body, html {height: 100%}
-.bgimg {
-  background-image: url('');
-  min-height: 100%;
-  background-position: center;
-  background-size: cover;
+
+h1 {
+  color:#F25FDE;
+  font-size: 50pt;
+  text-shadow: 5px 2px 4px #D009E3 ;
+}
+td.top{
+  vertical-align: top;
+  color: white;
+  background-color: #11D764 
+}td.middle{
+  vertical-align: middle
+}
+td.bottom{
+  vertical-align: bottom
+    }
+
+td.lian {
+   color:white;
+   background-color:#37D2DA 
+  }
+td.eis {
+  color: white;
+  background-color: #660FD9
 }
